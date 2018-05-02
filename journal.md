@@ -15,8 +15,10 @@ So the previous section was just a stupid poem so...
 This one is more serious (supposidly)
 # Authors
 
-My mum
-Ismaeel Ramzan
+
+Ismaeel Ramzan, University of Manchester
+My mum, University of Life
+
 
 # References
 
