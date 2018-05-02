@@ -1,5 +1,5 @@
 # Title 
-The academic wikipedia poem
+The academic wikipedia poem with citations
 
 Acadamics say they hate wikipedia, 
 yet they use it to steal all their media.
@@ -11,3 +11,7 @@ but then they tell you not to reference it to.
 
 Ismaeel Ramzan
 My mum
+
+# References
+
+My brain
