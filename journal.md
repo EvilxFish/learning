@@ -15,8 +15,8 @@ So the previous section was just a stupid poem so...
 This one is more serious (supposidly)
 # Authors
 
-Ismaeel Ramzan
 My mum
+Ismaeel Ramzan
 
 # References
 
