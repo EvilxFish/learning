@@ -26,3 +26,6 @@ In fact so good it is, those that read it may become light headed because of its
 #Awards
 Poem of the year
 Nobel prize for literature
+#Figures
+
+Not only is this truly an epic poem but so to does it contain pictures.
